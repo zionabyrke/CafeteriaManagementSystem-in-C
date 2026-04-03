@@ -1,0 +1,29 @@
+       CAFETERIA NAME
+     Legazpi City, Albay
+       Zip Code: 4500
+    Tel.: +456-468-987-02
+:::::::::::::::::::::::::::::
+
+Date:              04-03-2026
+Reference no.:      000000001
+Student ID:   2023-4302-29299
+
+:::::::::::::::::::::::::::::
+
+Name            Qty     Price     
+Lorem Ipsum      5      50.50
+Lorem Ipsum      7      50.50
+Lorem Ipsum      8      50.50
+STOP                    `ñž?ü
+
+:::::::::::::::::::::::::::::
+
+Total                 1010.00
+Student Discount          20%
+Discounted Total       808.00
+Cash                  5000.00
+Change                4192.00
+
+  ------------------------
+         THANK YOU!
+   Glad to see you again!
